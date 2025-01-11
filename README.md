@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Jonne</h1>
 
-<p>🔭 I'm a second-year ICT student at Metropolia University of Applied Sciences, focusing on Software Engineering and machine learning. I have a strong interest in several areas of software development, particularly full-stack development, embedded systems, and game development.</p>
+<p>🔭 I'm a second-year ICT student at Metropolia University of Applied Sciences, focusing on Software Engineering and machine learning. I have a strong interest in full-stack development, embedded systems, and game development.</p>
 
 <p><strong>📢 I'm currently looking for a summer job or internship in software development to gain hands-on experience and grow as a developer!</strong></p>
 
