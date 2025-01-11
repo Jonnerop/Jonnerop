@@ -4,7 +4,14 @@
 
 <p><strong>📢 I'm currently looking for a summer job or internship in software development to gain hands-on experience and grow as a developer!</strong></p>
 
-<h2>🚀 Languages and Tools I Use</h2>
+<p><strong>🎓 Education</strong></p>
+<ul>
+  <li><strong>Institution:</strong> Metropolia University of Applied Sciences</li>
+  <li><strong>Degree:</strong> B.Sc. in Information and Communication Technology (Software Engineering)</li>
+  <li><strong>Year:</strong> 2023 - Present</li>
+</ul>
+
+<h2>Languages and Tools I Use</h2>
 <p>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
