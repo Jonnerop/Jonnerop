@@ -2,7 +2,6 @@
 
 <p>🔭 I'm a second-year ICT student at Metropolia University of Applied Sciences, focusing on Software Engineering and machine learning. I have a strong interest in full-stack development, embedded systems, and game development.</p>
 
-<strong>📢 I'm currently looking for a summer job or internship in software development to gain hands-on experience and grow as a developer!</strong>
 <p><strong>🎓 Education</strong></p>
 <ul>
   <li><strong>Institution:</strong> Metropolia University of Applied Sciences</li>
