@@ -1,8 +1,8 @@
-<h1>Hi 👋, I'm Jonne</h1>
+<h1>Hi, I'm Jonne</h1>
 
-<p>🔭 I'm a third-year ICT student at Metropolia University of Applied Sciences, focusing on Software Engineering and machine learning. I have a strong interest in full-stack development, embedded systems, and game development.</p>
+<p>I'm a third-year ICT student at Metropolia University of Applied Sciences, focusing on Software Engineering and machine learning. I have a strong interest in full-stack development, embedded systems, and game development.</p>
 
-<p><strong>🎓 Education</strong></p>
+<p><strong>Education</strong></p>
 <ul>
   <li><strong>Institution:</strong> Metropolia University of Applied Sciences</li>
   <li><strong>Degree:</strong> Pursuing B.Sc. in Information and Communication Technology, specializing in Software Engineering</li>
