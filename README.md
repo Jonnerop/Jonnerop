@@ -11,4 +11,17 @@
 
 <h2>Languages and Tools I Use</h2>
 
-![My Skills](https://skillicons.dev/icons?i=java,javascript,python,react,html5,tailwindcss,nodejs,express,mongodb,mysql,postman,figma,mocha,linux,git&theme=light&perline=8)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="48" />
+  <img src="https://skillicons.dev/icons?i=js" height="48" />
+  <img src="https://skillicons.dev/icons?i=python" height="48" />
+  <img src="https://skillicons.dev/icons?i=react" height="48" />
+  <img src="https://skillicons.dev/icons?i=html" height="48" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="48" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="48" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="48" />
+  <img src="https://skillicons.dev/icons?i=postman" height="48" />
+  <img src="https://skillicons.dev/icons?i=figma" height="48" />
+  <img src="https://skillicons.dev/icons?i=linux" height="48" />
+  <img src="https://skillicons.dev/icons?i=git" height="48" />
+</p>
