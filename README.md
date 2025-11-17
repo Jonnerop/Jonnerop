@@ -10,18 +10,20 @@
 </ul>
 
 <h2>Languages and Tools I Use</h2>
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" style="padding:6px; background:#fff; border-radius:8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" style="padding:6px; background:#fff; border-radius:8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" style="padding:6px; background:#fff; border-radius:8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" height="42" style="padding:6px; background:#fff; border-radius:8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42" style="padding:6px; background:#fff; border-radius:8px;" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" height="42" style="padding:6px; background:#fff; border-radius:8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42" height="42" style="padding:6px; background:#fff; border-radius:8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="42" height="42" style="padding:6px; background:#fff; border-radius:8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42" height="42" style="padding:6px; background:#fff; border-radius:8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42" style="padding:6px; background:#fff; border-radius:8px;" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42" height="42" style="padding:6px; background:#fff; border-radius:8px;" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="42" height="42" style="padding:6px; background:#fff; border-radius:8px;" />
+  <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" width="42" height="42" style="padding:6px; background:#fff; border-radius:8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" style="padding:6px; background:#fff; border-radius:8px;" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42" style="padding:6px; background:#fff; border-radius:8px;" />
+</p>
