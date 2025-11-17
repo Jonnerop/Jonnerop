@@ -5,7 +5,7 @@
 <p><strong>Education</strong></p>
 <ul>
   <li><strong>Institution:</strong> Metropolia University of Applied Sciences</li>
-  <li><strong>Degree:</strong> Pursuing B.Sc. in Information and Communication Technology, specializing in Software Engineering</li>
+  <li><strong>Degree:</strong> Pursuing B.Sc. in Information and Communication Technology</li>
   <li><strong>Year:</strong> 2023 - Present</li>
 </ul>
 
