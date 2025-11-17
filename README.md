@@ -10,20 +10,4 @@
 </ul>
 
 <h2>Languages and Tools I Use</h2>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" style="padding:6px; background:#fff; border-radius:8px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" style="padding:6px; background:#fff; border-radius:8px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" style="padding:6px; background:#fff; border-radius:8px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" height="42" style="padding:6px; background:#fff; border-radius:8px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42" style="padding:6px; background:#fff; border-radius:8px;" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" height="42" style="padding:6px; background:#fff; border-radius:8px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42" height="42" style="padding:6px; background:#fff; border-radius:8px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="42" height="42" style="padding:6px; background:#fff; border-radius:8px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42" height="42" style="padding:6px; background:#fff; border-radius:8px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42" style="padding:6px; background:#fff; border-radius:8px;" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42" height="42" style="padding:6px; background:#fff; border-radius:8px;" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="42" height="42" style="padding:6px; background:#fff; border-radius:8px;" />
-  <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" width="42" height="42" style="padding:6px; background:#fff; border-radius:8px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" style="padding:6px; background:#fff; border-radius:8px;" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42" style="padding:6px; background:#fff; border-radius:8px;" />
-</p>
+![My Skills](https://skillicons.dev/icons?i=java,javascript,python,react,html5,tailwindcss,nodejs,express,mongodb,mysql,postman,figma,mocha,linux,git&theme=light&perline=8)
