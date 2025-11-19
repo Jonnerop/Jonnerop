@@ -24,7 +24,4 @@
   <img src="https://skillicons.dev/icons?i=figma" height="48" />
   <img src="https://skillicons.dev/icons?i=linux" height="48" />
   <img src="https://skillicons.dev/icons?i=git" height="48" />
-  <img src="https://skillicons.dev/icons?i=jupyter" height="48" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="48" />
-  <img src="https://skillicons.dev/icons?i=sklearn" height="48" />
 </p>
