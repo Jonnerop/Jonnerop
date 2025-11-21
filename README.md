@@ -6,7 +6,7 @@
 <ul>
   <li><strong>Institution:</strong> Metropolia University of Applied Sciences</li>
   <li><strong>Degree:</strong> Pursuing BEng in Information and Communication Technology</li>
-  <li><strong>Year:</strong> 2023 - Present</li>
+  <li><strong>Years:</strong> 2023 - Present</li>
 </ul>
 
 <h2>Languages and Tools I Use</h2>
